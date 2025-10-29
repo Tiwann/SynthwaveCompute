@@ -1,0 +1,3 @@
+[submodule "Vendor/NovaEngine"]
+	path = Vendor/NovaEngine
+	url = git@github.com:Tiwann/Nova.git
