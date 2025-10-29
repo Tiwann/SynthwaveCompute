@@ -1,7 +1,7 @@
 ﻿# Synthwave Compute
 
 This repo is an example project on how to draw on a texture using a compute shader to display
-it on screen using [Nova Engine](https://github.com/Tiwann/Nova).
+it on screen using [Nova Engine](https://github.com/Tiwann/NovaEngine).
 
 ![](Docs/SynthwaveCompute_NovaEngine_Screenshot.gif)
 
